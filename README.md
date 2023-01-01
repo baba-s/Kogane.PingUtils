@@ -45,3 +45,7 @@ public class Example : MonoBehaviour
     }
 }
 ```
+
+## 依存しているパッケージ
+
+* https://github.com/Cysharp/UniTask
